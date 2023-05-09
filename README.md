@@ -1,4 +1,4 @@
-"IntegerSquad"
+# IntegerSquad
 
 Media sosial untuk rakyat Indonesia, yang dibuat oleh PUB angkatan 20.
 
@@ -8,3 +8,5 @@ Fitur:
 - Story
 - Comment
 - Like
+
+![Bima Sakti](milky-way.jpg)
