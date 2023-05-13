@@ -11,6 +11,8 @@ Fitur:
 
 ![Bima Sakti](milky-way.jpg)
 
+C:
+
 ```c
 void main()
 {
@@ -18,9 +20,13 @@ void main()
 }
 ```
 
+Python:
+
 ```py
 print("Hello, world!")
 ```
+
+Java:
 
 ```java
 class Main {
@@ -28,4 +34,16 @@ class Main {
         System.out.println("Hello, world!");
     }
 }
+```
+
+SQL:
+
+```sql
+SELECT * FROM students WHERE name = 'Nanda';
+```
+
+HTML:
+
+```html
+<button>Login</button>
 ```
